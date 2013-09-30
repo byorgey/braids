@@ -1,0 +1,14 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.errors
+.virthualenv
+*~
+.hsenv_*
+dist_*
+history
+TAGS
+.diagrams-cache
